@@ -1,0 +1,5 @@
+version: '2'
+services:
+    myproject_web:
+        ports:
+            - "46000:80"
